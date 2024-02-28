@@ -1,0 +1,18 @@
+15U001	ANALIZA 1	TATJANA PETEK	1	zimski	6	4	1. kolokvij	25	36	1	2. kolokvij	25	13	1	teoretični izpit	50	5	0	pisni izpit	50	5	2	2
+60U013	UVOD V TELEKOMUNIKACIJE	ANDREJ ŽGANK	1	zimski	6	5	domače naloge	10	100	0	Laboratorijske vaje	40	90	0	1. kolokvij	25	36	1	2. kolokvij	25	36	1	pisni izpit	50	70	2	9
+60U125	OSNOVE STROJNE IN PROGRAMSKE OPREME	ZMAGO BREZOČNIK	1	zimski	7	5	domače naloge	15	100	0	Laboratorijske vaje	35	90	2	1. kolokvij	25	36	1	2. kolokvij	25	36	1	pisni izpit	50	70	2	9
+15U008	DIFERENCIALNE ENAČBE	ROMANOVSKIJ VALERIJ	1	poletni	6	7	domače naloge	15	100	0	1. kolokvij	25	36	1	2. kolokvij	25	36	1	1. teoretični del	25	36	1	2. teoretični del	25	36	1	pisni izpit	50	70	2	teoretični izpit	50	70	2	9
+60U016	ELEKTROMAGNETNO VALOVANJE	VLAOVIČ BOŠTJAN	1	poletni	6	5	Laboratorijske vaje	35	90	2	1. kolokvij	20	36	2	2. kolokvij	25	36	1	ustni izpit	30	60	2	pisni izpit	25	70	1	6
+62U120	OBJEKTNO PROGRAMIRANJE V JAVI	HERIČKO MARJAN	1	poletni	6	5	Laboratorijske vaje	30	90	2	1. kolokvij	20	36	1	2. kolokvij	20	36	1	ustni izpit	30	60	2	pisni izpit	40	70	1	7
+15U117	MIKRORAČUNALNIŠKE ARHITEKTURE	ZMAGO BREZOČNIK	2	poletni	6	5	domače naloge	15	100	0	Laboratorijske vaje	35	90	2	1. kolokvij	25	36	1	2. kolokvij	25	36	1	pisni izpit	50	70	2	9
+60U023	DIGITALNA OBDELAVA SIGNALOV	KAČIČ ZDRAVKO	2	zimski	6	3	projekt	20	100	0	laboratorijske vaje	30	100	0	pisni izpit	50	51	0	8
+15U041	OSNOVE PROGRAMSKEGA INŽENIRSTVA	DOGŠA TOMAŽ	2	zimski	6	2	projekt	50	0	0	ustni izpit	50	0	0	1
+60U133	OSNOVE KOMUNIKACIJSKIH OMREŽIJ	KAPUS TATJANA	2	zimski	6	5	domače naloge	10	0	0	Laboratorijske vaje	40	0	0	1. kolokvij	25	0	1	2. kolokvij	25	0	1	pisni izpit	50	0	2	1
+60U137	ALGORITMI V TELEKOMUNIKACIJAH	SEPESY MAUČEC MIRJAM	2	poletni	6	5	kvizi	15	0	0	Laboratorijske vaje	35	0	0	1. kolokvij	25	0	1	2. kolokvij	25	0	1	pisni izpit	50	0	2	1
+60U150	ODDAJNI SISTEMI	VLAOVIČ BOŠTJAN	2	poletni	6	4	Laboratorijske vaje	50	0	0	1. kolokvij	25	0	1	2. kolokvij	25	0	1	pisni izpit	50	0	2	1
+60U029	FORMALNE METODE V PROGRAMSKEM INŽENIRSTVU	KAPUS TATJANA	3	zimski	6	3	domače naloge	10	0	0	Laboratorijske vaje	40	0	0	ustni izpit	50	0	0	1
+60U030	PROGRAMSKA OKOLJA ZA TELEKOMUNIKACIJSKE STORITVE	SEPESY MAUČEC MIRJAM	3	zimski	6	4	kvizi	20	0	0	Laboratorijske vaje	35	0	0	kolokvij	45	0	1	pisni izpit	45	0	2	1
+61U028	MULTIMEDIA	ŽALIK BORUT	3	zimski	6	4	Laboratorijske vaje	50	0	0	1. kolokvij	25	0	1	2. kolokvij	25	0	1	pisni izpit	50	0	2	1
+60U142	FIKSNA IN MOBILNA BREZŽIČNA OMREŽJA	VLAJ DAMJAN	3	poletni	6	5	domače naloge	15	0	0	Laboratorijske vaje	25	0	0	1. kolokvij	25	0	1	2. kolokvij	25	0	1	pisni izpit	50	0	2	1
+60U143	NAČRTOVANJE KOMUNIKACIJSKIH PROTOKOLOV	BREZOČNIK ZMAGO	3	poletni	6	4	Laboratorijske vaje	50	0	0	1. kolokvij	25	0	1	2. kolokvij	25	0	1	pisni izpit	50	0	2	1
+60U151	MOBILNA INTERAKCIJA	ROJC MATEJ	3	poletni	6	2	ustni izpit	40	0	0	projekt	60	0	0	1

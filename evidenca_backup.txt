@@ -1,0 +1,8 @@
+kodaPredmeta	imePredmeta	imeNosilca	letnikVkateremSeIzvaja	semester(zimski/poletni)	ECTS	številoObveznosti	imeobveznosti	utezObveznosti	ocenaObveznosti	povezanostOcene	izračunanaKončnaOcena
+15U001	ANALIZA 1	TATJANA PETEK	1	zimski	6	4	1. kolokvij	25	36	1	2. kolokvij	25	13	1	teoretični izpit	50	5	0	pisni izpit	50	5	2	6
+60U013	UVOD V TELEKOMUNIKACIJE	ANDREJ ŽGANK	1	zimski	6	5	domače naloge	10	100	0	Laboratorijske vaje	40	90	0	1. kolokvij	25	36	1	2. kolokvij	25	36	1	pisni izpit	50	70	2	9
+60U125	OSNOVE STROJNE IN PROGRAMSKE OPREME	ZMAGO BREZOČNIK	1	zimski	7	5	domače naloge	15	100	0	Laboratorijske vaje	35	90	2	1. kolokvij	25	36	1	2. kolokvij	25	36	1	pisni izpit	50	70	2	7
+15U008	DIFERENCIALNE ENAČBE	ROMANOVSKIJ VALERIJ	1	poletni	6	7	domače naloge	15	100	0	1. kolokvij	25	36	1	2. kolokvij	25	36	1	1. teoretični del	25	36	1	2. teoretični del	25	36	1	pisni izpit	50	70	2	teoretični izpit	50	70	2	7
+60U016	ELEKTROMAGNETNO VALOVANJE	VLAOVIČ BOŠTJAN	1	poletni	6	5	Laboratorijske vaje	35	90	2	1. kolokvij	20	36	2	2. kolokvij	25	36	1	ustni izpit	30	60	2	pisni izpit	25	70	1	8
+62U120	OBJEKTNO PROGRAMIRANJE V JAVI	HERIČKO MARJAN	1	poletni	6	5	Laboratorijske vaje	30	90	2	1. kolokvij	20	36	1	2. kolokvij	20	36	1	ustni izpit	30	60	2	pisni izpit	40	70	1	6
+15U117	MIKRORAČUNALNIŠKE ARHITEKTURE	ZMAGO BREZOČNIK	2	poletni	6	5	domače naloge	15	100	0	Laboratorijske vaje	35	90	2	1. kolokvij	25	36	1	2. kolokvij	25	36	1	pisni izpit	50	70	2	4
